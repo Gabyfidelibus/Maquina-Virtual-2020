@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1585952566 source:c:\users\usuario\desktop\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1585952580 c:\users\usuario\desktop\mvc\funciones.h
+
+1586301661 source:c:\users\usuario\desktop\maquina virtual\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1585952580 c:\users\usuario\desktop\maquina virtual\mvc\funciones.h
+
+1586298843 source:c:\users\usuario\desktop\maquina virtual\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1586298369 source:c:\users\july\desktop\proyecto vm\maquina virtual\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1585952580 c:\users\july\desktop\proyecto vm\maquina virtual\mvc\funciones.h
+
+1586296081 source:c:\users\july\desktop\proyecto vm\maquina virtual\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586372496 source:c:\users\july\desktop\proyecto vm\maquina virtual 3.0\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1585952580 c:\users\july\desktop\proyecto vm\maquina virtual 3.0\mvc\funciones.h
+
+1586372530 source:c:\users\july\desktop\proyecto vm\maquina virtual 3.0\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1586377279 source:c:\users\july\desktop\maquina virtual\maquina virtual\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1585952580 c:\users\july\desktop\maquina virtual\maquina virtual\mvc\funciones.h
+
+1586377293 source:c:\users\july\desktop\maquina virtual\maquina virtual\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586379576 source:c:\users\july\desktop\maquina virtual\maquina virtual 2\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1585952580 c:\users\july\desktop\maquina virtual\maquina virtual 2\mvc\funciones.h
+
+1586384091 source:c:\users\july\desktop\maquina virtual\maquina virtual 2\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586384155 source:c:\users\july\desktop\facultad\maquina virtual\maquina virtual\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1585952580 c:\users\july\desktop\facultad\maquina virtual\maquina virtual\mvc\funciones.h
+
+1588881943 source:c:\users\usuario\desktop\maquina virtual despues de rendir\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1585952580 c:\users\usuario\desktop\maquina virtual despues de rendir\mvc\funciones.h
+
+1588882320 source:c:\users\usuario\desktop\maquina virtual despues de rendir\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1588892948 source:c:\users\usuario\desktop\maquina virtual lee bien\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1588892883 c:\users\usuario\desktop\maquina virtual lee bien\mvc\funciones.h
+
+1588892428 source:c:\users\usuario\desktop\maquina virtual lee bien\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1589137815 source:c:\users\usuario\desktop\maquina virtual 2.2\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1589060237 c:\users\usuario\desktop\maquina virtual 2.2\mvc\funciones.h
+
+1589137824 source:c:\users\usuario\desktop\maquina virtual 2.2\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1589147163 source:d:\documentos\facultad\arquitectura de computadoras\maquina virtual 2.3\mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1589144817 d:\documentos\facultad\arquitectura de computadoras\maquina virtual 2.3\mvc\funciones.h
+
+1589148136 source:d:\documentos\facultad\arquitectura de computadoras\maquina virtual 2.3\mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+

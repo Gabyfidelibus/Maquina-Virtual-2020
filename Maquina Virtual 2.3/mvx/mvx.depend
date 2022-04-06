@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1586301731 source:c:\users\usuario\desktop\maquina virtual\mvx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1585955673 c:\users\usuario\desktop\maquina virtual\mvx\funciones.h
+
+1586301450 source:c:\users\usuario\desktop\maquina virtual\mvx\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586294697 source:c:\users\july\desktop\proyecto vm\maquina virtual\mvx\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1585955673 c:\users\july\desktop\proyecto vm\maquina virtual\mvx\funciones.h
+
+1586298451 source:c:\users\july\desktop\proyecto vm\maquina virtual\mvx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586314522 source:c:\users\july\desktop\proyecto vm\maquina virtual 3.0\mvx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586310404 c:\users\july\desktop\proyecto vm\maquina virtual 3.0\mvx\funciones.h
+
+1586372010 source:c:\users\july\desktop\proyecto vm\maquina virtual 3.0\mvx\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586377946 source:c:\users\july\desktop\maquina virtual\maquina virtual\mvx\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586310404 c:\users\july\desktop\maquina virtual\maquina virtual\mvx\funciones.h
+
+1586376510 source:c:\users\july\desktop\maquina virtual\maquina virtual\mvx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586384162 source:c:\users\july\desktop\maquina virtual\maquina virtual 2\mvx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586310404 c:\users\july\desktop\maquina virtual\maquina virtual 2\mvx\funciones.h
+
+1586382807 source:c:\users\july\desktop\maquina virtual\maquina virtual 2\mvx\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586652012 source:c:\users\july\desktop\facultad\maquina virtual\maquina virtual\mvx\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1586310404 c:\users\july\desktop\facultad\maquina virtual\maquina virtual\mvx\funciones.h
+
+1586652330 source:c:\users\july\desktop\facultad\maquina virtual\maquina virtual\mvx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
